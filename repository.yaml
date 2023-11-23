@@ -1,3 +1,4 @@
-name: Curated HA Addons
-url: http://www.example/addons
-maintainer: Stephen Cornwell
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Example Home Assistant add-on repository
+url: 'https://github.com/home-assistant/addons-example'
+maintainer: Awesome Maintainer <awesome@example.com>
